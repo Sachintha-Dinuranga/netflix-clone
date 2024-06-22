@@ -1,4 +1,4 @@
-Responsive Netflix Clone Website using html and css
+Responsive Netflix Clone Website using HTML and CSS <br>
 Visit the website➡️
 
 screenshots⬇️
